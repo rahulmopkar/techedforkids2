@@ -1,3 +1,4 @@
 [submodule "themes/hugo-creative-portfolio-theme"]
     path = themes/hugo-creative-portfolio-theme
     url = https://github.com/rahulmopkar/techedforkids2.git
+    commit = f29b3beb0bb17154a35abce0ec0dc8ad41adb12f
